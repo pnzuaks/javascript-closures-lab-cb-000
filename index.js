@@ -18,5 +18,5 @@ function bumpCounter() {
 
 
 function createAnimal(deadlyDevice) {
-
+  
 }
