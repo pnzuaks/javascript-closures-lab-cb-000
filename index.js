@@ -21,6 +21,7 @@ function createAnimal(animalType) {
 
   function inner(deadlyDevice) {
     return {
-      
+      animalType: animalType,
+      deadlyDevice: deadlyDevice
     }
 }
