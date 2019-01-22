@@ -21,11 +21,11 @@ function createAnimal(animalType) {
 
   function dangerousAnimals(deadlyDevice) {
     return {
-      animalType = 'animalType',
-      deadlyDevice = 'deadlyDevice'
+      animalType: 'animalType',
+      deadlyDevice: 'deadlyDevice'
     }
 }
-return dangerousAnimals
+return danger
 }
 
 var sharkCreator = createAnimal("Shark")
